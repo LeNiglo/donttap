@@ -75,7 +75,7 @@ window.onload = () => {
     for (let i = 0; i < SQUARE_INIT; i++) {
         newTile()
     }
-    canvas.addEventListener('click', handleClick)
+    canvas.addEventListener('mousedown', handleClick)
 
     const update = () => {
         // Update title and game info with current game info
