@@ -4,6 +4,10 @@
 
 Just clone the repository, no dependency, nothing, just plain browser JS.
 
+## Hosted version
+
+- http://54.37.157.128/donttap/
+
 ## Running
 
 You can use any way you want to open the index.html, you can simply double click on it, or my favorite way :
