@@ -107,7 +107,9 @@ window.onload = () => {
                 ctx.strokeRect(j * SQUARE_SIZE, i * SQUARE_SIZE, SQUARE_SIZE, SQUARE_SIZE)
             }
         }
+
+        requestAnimationFrame(update)
     }
 
-    setInterval(update, 1000/30)
+    update()
 }
