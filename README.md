@@ -22,7 +22,7 @@ If you want to make it accessible worldwide for a moment, use ngrok or similar
 npx ngrok http 8080
 ```
 
-(where 8000 is the port your http server is using)
+(where 8080 is the port your http server is using)
 
 ## Thanks
 
